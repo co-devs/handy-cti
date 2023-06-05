@@ -183,10 +183,11 @@
 		<outline text="CHAOS:master" title="CHAOS:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master" xmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master.atom"/>
 		<outline text="paradoxiaRAT" title="paradoxiaRAT" description="" type="rss" version="RSS" htmlUrl="https://github.com/quantumcore/paradoxiaRAT/releases" xmlUrl="https://github.com/quantumcored/paradoxiaRAT/releases.atom"/>
 		<outline text="pupy:unstable" title="pupy:unstable" description="" type="rss" version="RSS" htmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable" xmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable.atom"/>
-		<outline text="Remcos RAT Updates - BreakingSecurity.net" title="Remcos RAT Updates - BreakingSecurity.net" description="" type="rss" version="RSS" htmlUrl="https://breakingsecurity.net/" xmlUrl="https://breakingsecurity.net/feed/"/>
+		<outline text="Recent Commits to TurkoRat:main" title="Recent Commits to TurkoRat:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/cryst4linqq/TurkoRat/commits/main" xmlUrl="https://github.com/cryst4linqq/TurkoRat/commits.atom"/>
 		<outline text="Spark" title="Spark" description="" type="rss" version="RSS" htmlUrl="https://github.com/XZB-1248/Spark/releases" xmlUrl="https://github.com/XZB-1248/Spark/releases.atom"/>
 	</outline>
 	<outline text="Uncategorized Blogs" title="Uncategorized Blogs">
+		<outline text="SentinelOne" title="SentinelOne" description="" type="rss" version="RSS" htmlUrl="https://www.sentinelone.com/" xmlUrl="https://www.sentinelone.com/feed/"/>
 		<outline text="All Blog Listing" title="All Blog Listing" description="" type="rss" version="RSS" htmlUrl="https://www.mandiant.com/" xmlUrl="https://www.mandiant.com/resources/blog/rss.xml"/>
 		<outline text="All CISA Advisories" title="All CISA Advisories" description="" type="rss" version="RSS" htmlUrl="https://www.cisa.gov/" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/all.xml"/>
 		<outline text="ASEC BLOG" title="ASEC BLOG" description="" type="rss" version="RSS" htmlUrl="https://asec.ahnlab.com/en/" xmlUrl="https://asec.ahnlab.com/en/feed/"/>
