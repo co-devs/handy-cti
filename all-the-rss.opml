@@ -9,6 +9,7 @@
 	<outline text="Favored Sources" title="Favored Sources">
 		<outline text="Jonathan Johnson on Medium" title="Jonathan Johnson on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@jsecurity101?source=rss-78d2ff57ed70------2" xmlUrl="https://jsecurity101.medium.com/feed"/>
 		<outline text="Olaf Hartong on Medium" title="Olaf Hartong on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@olafhartong?source=rss-5ca7329adb2b------2" xmlUrl="https://medium.com/@olafhartong/feed"/>
+		<outline text="The DFIR Report" title="The DFIR Report" description="" type="rss" version="RSS" htmlUrl="https://thedfirreport.com/" xmlUrl="https://thedfirreport.com/feed/"/>
 		<outline text="Zack Fink HacknPatch" title="Zack Fink HacknPatch" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.hacknpatch.com/feed.xml"/>
 	</outline>
 	<outline text="Blogs - Blue" title="Blogs - Blue">
@@ -18,9 +19,12 @@
 		<outline text="Cisco Talos Blog" title="Cisco Talos Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.talosintelligence.com/" xmlUrl="https://blog.talosintelligence.com/rss/"/>
 		<outline text="Cybersecurity Blog | CrowdStrike" title="Cybersecurity Blog | CrowdStrike" description="" type="rss" version="RSS" htmlUrl="https://www.crowdstrike.com/blog/" xmlUrl="https://www.crowdstrike.com/blog/feed"/>
 		<outline text="Cybersecurity Blog | SentinelOne" title="Cybersecurity Blog | SentinelOne" description="" type="rss" version="RSS" htmlUrl="https://www.sentinelone.com/blog/" xmlUrl="https://www.sentinelone.com/blog/feed/"/>
+		<outline text="enigma0x3" title="enigma0x3" description="" type="rss" version="RSS" htmlUrl="https://enigma0x3.net/" xmlUrl="https://enigma0x3.net/feed/"/>
 		<outline text="Expel" title="Expel" description="" type="rss" version="RSS" htmlUrl="https://expel.com/" xmlUrl="https://expel.com/feed/"/>
 		<outline text="FalconForce" title="FalconForce" description="" type="rss" version="RSS" htmlUrl="https://falconforce.nl/" xmlUrl="https://falconforce.nl/feed/"/>
+		<outline text="Fortinet Threat Research Blog" title="Fortinet Threat Research Blog" description="" type="rss" version="RSS" htmlUrl="https://www.fortinet.com/bin/fortinet/allblogsrss?search=threat-research" xmlUrl="https://feeds.fortinet.com/fortinet/blog/threat-research"/>
 		<outline text="Huntress Blog" title="Huntress Blog" description="" type="rss" version="RSS" htmlUrl="https://www.huntress.com/blog" xmlUrl="https://www.huntress.com/blog/rss.xml"/>
+		<outline text="Jeffrey Appel â Microsoft Security blog" title="Jeffrey Appel â Microsoft Security blog" description="" type="rss" version="RSS" htmlUrl="https://jeffreyappel.nl/" xmlUrl="https://jeffreyappel.nl/feed/"/>
 		<outline text="Katie Nickels on Medium" title="Katie Nickels on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@likethecoins?source=rss-46ad74282e4c------2" xmlUrl="https://medium.com/@likethecoins/feed"/>
 		<outline text="mac4n6.com" title="mac4n6.com" description="" type="rss" version="RSS" htmlUrl="http://www.mac4n6.com/" xmlUrl="http://www.mac4n6.com/?format=rss"/>
 		<outline text="Matt's DFIR Blog" title="Matt's DFIR Blog" description="" type="rss" version="RSS" htmlUrl="https://mgreen27.github.io/" xmlUrl="https://mgreen27.github.io/feed.xml"/>
@@ -30,8 +34,8 @@
 		<outline text="Objective-See's Blog" title="Objective-See's Blog" description="" type="rss" version="RSS" htmlUrl="https://www.objective-see.com/" xmlUrl="https://objective-see.org/rss.xml"/>
 		<outline text="Palo Alto Networks Blog" title="Palo Alto Networks Blog" description="" type="rss" version="RSS" htmlUrl="https://www.paloaltonetworks.com/blog/" xmlUrl="http://feeds.feedburner.com/PaloAltoNetworks"/>
 		<outline text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" description="" type="rss" version="RSS" htmlUrl="https://isc.sans.edu/" xmlUrl="https://isc.sans.edu/rssfeed_full.xml"/>
+		<outline text="Stories by Michael Koczwara on Medium" title="Stories by Michael Koczwara on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@michaelkoczwara?source=rss-cacb9c1b6e0c------2" xmlUrl="https://medium.com/feed/@michaelkoczwara"/>
 		<outline text="Stories by Michael Koczwara on Medium" title="Stories by Michael Koczwara on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@michaelkoczwara?source=rss-cacb9c1b6e0c------2" xmlUrl="https://michaelkoczwara.medium.com/feed"/>
-		<outline text="The DFIR Report" title="The DFIR Report" description="" type="rss" version="RSS" htmlUrl="https://thedfirreport.com/" xmlUrl="https://thedfirreport.com/feed/"/>
 		<outline text="The Red Canary Blog: Information Security Insights" title="The Red Canary Blog: Information Security Insights" description="" type="rss" version="RSS" htmlUrl="https://redcanary.com/blog/" xmlUrl="https://redcanary.com/blog/feed/"/>
 		<outline text="Tony Lambert" title="Tony Lambert" description="" type="rss" version="RSS" htmlUrl="https://forensicitguy.github.io/" xmlUrl="https://forensicitguy.github.io/feed.xml"/>
 		<outline text="XOR-Hacks on Medium" title="XOR-Hacks on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@Proclus?source=rss-7212fa5e444------2" xmlUrl="https://medium.com/@Proclus/feed"/>
@@ -42,6 +46,16 @@
 		<outline text="Blog – White Oak Security" title="Blog – White Oak Security" description="" type="rss" version="RSS" htmlUrl="https://www.whiteoaksecurity.com/" xmlUrl="https://www.whiteoaksecurity.com/blog/feed/"/>
 		<outline text="Lares" title="Lares" description="" type="rss" version="RSS" htmlUrl="https://www.lares.com/blog/expanding-the-lares-partner-program/" xmlUrl="https://www.lares.com/feed/"/>
 		<outline text="TrustedSec" title="TrustedSec" description="" type="rss" version="RSS" htmlUrl="https://www.trustedsec.com/" xmlUrl="https://www.trustedsec.com/feed/"/>
+	</outline>
+	<outline text="Blue Team Rules" title="Blue Team Rules">
+		<outline text="Recent Commits to detection-rules:main" title="Recent Commits to detection-rules:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/elastic/detection-rules/commits/main" xmlUrl="https://github.com/elastic/detection-rules/commits.atom"/>
+		<outline text="Recent Commits to protections-artifacts:main" title="Recent Commits to protections-artifacts:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/elastic/protections-artifacts/commits/main" xmlUrl="https://github.com/elastic/protections-artifacts/commits.atom"/>
+		<outline text="Recent Commits to reversinglabs-yara-rules:develop" title="Recent Commits to reversinglabs-yara-rules:develop" description="" type="rss" version="RSS" htmlUrl="https://github.com/reversinglabs/reversinglabs-yara-rules/commits/develop" xmlUrl="https://github.com/reversinglabs/reversinglabs-yara-rules/commits.atom"/>
+		<outline text="Recent Commits to sigma:master" title="Recent Commits to sigma:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/SigmaHQ/sigma/commits/master" xmlUrl="https://github.com/SigmaHQ/sigma/commits.atom"/>
+		<outline text="Recent Commits to signature-base:master" title="Recent Commits to signature-base:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/Neo23x0/signature-base/commits/master" xmlUrl="https://github.com/Neo23x0/signature-base/commits.atom"/>
+		<outline text="Recent Commits to sublime-rules:main" title="Recent Commits to sublime-rules:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/sublime-security/sublime-rules/commits/main" xmlUrl="https://github.com/sublime-security/sublime-rules/commits.atom"/>
+		<outline text="Ruleset Updates - Emerging Threats" title="Ruleset Updates - Emerging Threats" description="" type="rss" version="RSS" htmlUrl="https://community.emergingthreats.net/c/ruleset-updates/9" xmlUrl="https://community.emergingthreats.net/c/ruleset-updates/9.rss"/>
+		<outline text="Splunk Security Content" title="Splunk Security Content" description="" type="rss" version="RSS" htmlUrl="https://splunkresearch.com/" xmlUrl="https://research.splunk.com/feed.xml"/>
 	</outline>
 	<outline text="Watched COs" title="Watched COs">
 		<outline text="News - 3CX | Blog" title="News - 3CX | Blog" description="" type="rss" version="RSS" htmlUrl="https://www.3cx.com/blog/category/news/" xmlUrl="https://www.3cx.com/blog/category/news/feed/"/>
@@ -84,6 +98,7 @@
 		<outline text="poseidon:master" title="poseidon:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/MythicAgents/poseidon/commits/master" xmlUrl="https://github.com/MythicAgents/poseidon/commits.atom"/>
 		<outline text="PoshC2" title="PoshC2" description="" type="rss" version="RSS" htmlUrl="https://github.com/nettitude/PoshC2/releases" xmlUrl="https://github.com/nettitude/PoshC2/releases.atom"/>
 		<outline text="PowerHub" title="PowerHub" description="" type="rss" version="RSS" htmlUrl="https://github.com/AdrianVollmer/PowerHub/releases" xmlUrl="https://github.com/AdrianVollmer/PowerHub/releases.atom"/>
+		<outline text="Recent Commits to geacon_plus:main" title="Recent Commits to geacon_plus:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/Z3ratu1/geacon_plus/commits/main" xmlUrl="https://github.com/Z3ratu1/geacon_plus/commits.atom"/>
 		<outline text="RedGhost:master" title="RedGhost:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/d4rk007/RedGhost/commits/master" xmlUrl="https://github.com/d4rk007/RedGhost/commits/master.atom"/>
 		<outline text="rex-powershell" title="rex-powershell" description="" type="rss" version="RSS" htmlUrl="https://github.com/rapid7/rex-powershell/releases" xmlUrl="https://github.com/rapid7/rex-powershell/releases.atom"/>
 		<outline text="sandcat" title="sandcat" description="" type="rss" version="RSS" htmlUrl="https://github.com/mitre/sandcat/releases" xmlUrl="https://github.com/mitre/sandcat/releases.atom"/>
@@ -92,10 +107,17 @@
 		<outline text="sliver" title="sliver" description="" type="rss" version="RSS" htmlUrl="https://github.com/BishopFox/sliver/releases" xmlUrl="https://github.com/BishopFox/sliver/releases.atom"/>
 		<outline text="SSHoRTy:master" title="SSHoRTy:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/dsnezhkov/SSHoRTy/commits/master" xmlUrl="https://github.com/dsnezhkov/SSHoRTy/commits/master.atom"/>
 		<outline text="stockpile" title="stockpile" description="" type="rss" version="RSS" htmlUrl="https://github.com/mitre/stockpile/releases" xmlUrl="https://github.com/mitre/stockpile/releases.atom"/>
-		<outline text="tetanus:main" title="tetanus:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/MythicAgents/tetanus/commits/main" xmlUrl="https://github.com/MythicAgents/tetanus/commits.atom"/>
+		<outline text="tetanus:main" title="tetanus:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/MythicAgents/thanatos/commits/main" xmlUrl="https://github.com/MythicAgents/tetanus/commits.atom"/>
 		<outline text="trevorc2" title="trevorc2" description="" type="rss" version="RSS" htmlUrl="https://github.com/trustedsec/trevorc2/releases" xmlUrl="https://github.com/trustedsec/trevorc2/releases.atom"/>
 		<outline text="typhon:main" title="typhon:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/MythicAgents/typhon/commits/main" xmlUrl="https://github.com/MythicAgents/typhon/commits.atom"/>
 		<outline text="WMImplant Recent Commits" title="WMImplant Recent Commits" description="" type="rss" version="RSS" htmlUrl="https://github.com/FortyNorthSecurity/WMImplant/commits/master" xmlUrl="https://github.com/FortyNorthSecurity/WMImplant/commits/master.atom"/>
+	</outline>
+	<outline text="IOCs" title="IOCs">
+		<outline text="Recent Commits to Bumblebee:main" title="Recent Commits to Bumblebee:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Bumblebee/commits/main" xmlUrl="https://github.com/pr0xylife/Bumblebee/commits.atom"/>
+		<outline text="Recent Commits to Emotet:main" title="Recent Commits to Emotet:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Emotet/commits/main" xmlUrl="https://github.com/pr0xylife/Emotet/commits.atom"/>
+		<outline text="Recent Commits to IcedID:main" title="Recent Commits to IcedID:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/IcedID/commits/main" xmlUrl="https://github.com/pr0xylife/IcedID/commits.atom"/>
+		<outline text="Recent Commits to MalwareConfigLists:main" title="Recent Commits to MalwareConfigLists:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/Gi7w0rm/MalwareConfigLists/commits/main" xmlUrl="https://github.com/Gi7w0rm/MalwareConfigLists/commits.atom"/>
+		<outline text="Recent Commits to Qakbot:main" title="Recent Commits to Qakbot:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Qakbot/commits/main" xmlUrl="https://github.com/pr0xylife/Qakbot/commits.atom"/>
 	</outline>
 	<outline text="OffSec Tools" title="OffSec Tools">
 		<outline text="ADFSDump:master" title="ADFSDump:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/mandiant/ADFSDump/commits/master" xmlUrl="https://github.com/fireeye/ADFSDump/commits/master.atom"/>
@@ -129,7 +151,7 @@
 		<outline text="PowerUpSQL:master" title="PowerUpSQL:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/NetSPI/PowerUpSQL/commits/master" xmlUrl="https://github.com/NetSPI/PowerUpSQL/commits/master.atom"/>
 		<outline text="Responder" title="Responder" description="" type="rss" version="RSS" htmlUrl="https://github.com/lgandx/Responder/releases" xmlUrl="https://github.com/lgandx/Responder/releases.atom"/>
 		<outline text="Rubeus:master" title="Rubeus:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GhostPack/Rubeus/commits/master" xmlUrl="https://github.com/GhostPack/Rubeus/commits/master.atom"/>
-		<outline text="Screenshooter" title="Screenshooter" description="" type="rss" version="RSS" htmlUrl="https://github.com/FortyNorthSecurity/Screenshooter/releases" xmlUrl="https://github.com/FortyNorthSecurity/Screenshooter/releases.atom"/>
+		<outline text="Screenshooter" title="Screenshooter" description="" type="rss" version="RSS" htmlUrl="https://github.com/RedSiege/Screenshooter/releases" xmlUrl="https://github.com/FortyNorthSecurity/Screenshooter/releases.atom"/>
 		<outline text="Seatbelt:master" title="Seatbelt:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GhostPack/Seatbelt/commits/master" xmlUrl="https://github.com/GhostPack/Seatbelt/commits/master.atom"/>
 		<outline text="SharpDPAPI:master" title="SharpDPAPI:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GhostPack/SharpDPAPI/commits/master" xmlUrl="https://github.com/GhostPack/SharpDPAPI/commits/master.atom"/>
 		<outline text="SharPersist" title="SharPersist" description="" type="rss" version="RSS" htmlUrl="https://github.com/mandiant/SharPersist/releases" xmlUrl="https://github.com/fireeye/SharPersist/releases.atom"/>
@@ -150,16 +172,57 @@
 		<outline text="Recent Commits to GTFOBins.github.io:master" title="Recent Commits to GTFOBins.github.io:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits/master" xmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits.atom"/>
 		<outline text="Recent Commits to HijackLibs:main" title="Recent Commits to HijackLibs:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/wietze/HijackLibs/commits/main" xmlUrl="https://github.com/wietze/HijackLibs/commits.atom"/>
 		<outline text="Recent Commits to LOLBAS:master" title="Recent Commits to LOLBAS:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits/master" xmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits.atom"/>
+		<outline text="Recent Commits to LOLDrivers:main" title="Recent Commits to LOLDrivers:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/magicsword-io/LOLDrivers/commits/main" xmlUrl="https://github.com/magicsword-io/LOLDrivers/commits/main.atom"/>
 		<outline text="Recent Commits to wtfbins:main" title="Recent Commits to wtfbins:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/mttaggart/wtfbins/commits/main" xmlUrl="https://github.com/mttaggart/wtfbins/commits.atom"/>
+		<outline text="Release notes from mac-monitor" title="Release notes from mac-monitor" description="" type="rss" version="RSS" htmlUrl="https://github.com/redcanaryco/mac-monitor/releases" xmlUrl="https://github.com/redcanaryco/mac-monitor/releases.atom"/>
 	</outline>
 	<outline text="RATs" title="RATs">
 		<outline text="Ares" title="Ares" description="" type="rss" version="RSS" htmlUrl="https://github.com/sweetsoftware/Ares/releases" xmlUrl="https://github.com/sweetsoftware/Ares/releases.atom"/>
 		<outline text="AsyncRAT-C-Sharp" title="AsyncRAT-C-Sharp" description="" type="rss" version="RSS" htmlUrl="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/releases" xmlUrl="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/releases.atom"/>
+		<outline text="BreakingSecurity.net" title="BreakingSecurity.net" description="" type="rss" version="RSS" htmlUrl="https://breakingsecurity.net/" xmlUrl="https://breakingsecurity.net/feed/"/>
 		<outline text="CHAOS:master" title="CHAOS:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master" xmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master.atom"/>
 		<outline text="paradoxiaRAT" title="paradoxiaRAT" description="" type="rss" version="RSS" htmlUrl="https://github.com/quantumcore/paradoxiaRAT/releases" xmlUrl="https://github.com/quantumcored/paradoxiaRAT/releases.atom"/>
 		<outline text="pupy:unstable" title="pupy:unstable" description="" type="rss" version="RSS" htmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable" xmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable.atom"/>
 		<outline text="Remcos RAT Updates - BreakingSecurity.net" title="Remcos RAT Updates - BreakingSecurity.net" description="" type="rss" version="RSS" htmlUrl="https://breakingsecurity.net/" xmlUrl="https://breakingsecurity.net/feed/"/>
 		<outline text="Spark" title="Spark" description="" type="rss" version="RSS" htmlUrl="https://github.com/XZB-1248/Spark/releases" xmlUrl="https://github.com/XZB-1248/Spark/releases.atom"/>
+	</outline>
+	<outline text="Uncategorized Blogs" title="Uncategorized Blogs">
+		<outline text="All Blog Listing" title="All Blog Listing" description="" type="rss" version="RSS" htmlUrl="https://www.mandiant.com/" xmlUrl="https://www.mandiant.com/resources/blog/rss.xml"/>
+		<outline text="All CISA Advisories" title="All CISA Advisories" description="" type="rss" version="RSS" htmlUrl="https://www.cisa.gov/" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/all.xml"/>
+		<outline text="ASEC BLOG" title="ASEC BLOG" description="" type="rss" version="RSS" htmlUrl="https://asec.ahnlab.com/en/" xmlUrl="https://asec.ahnlab.com/en/feed/"/>
+		<outline text="Avast Blog" title="Avast Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.avast.com/" xmlUrl="https://blog.avast.com/rss.xml"/>
+		<outline text="bishopfox.com" title="bishopfox.com" description="" type="rss" version="RSS" htmlUrl="https://bishopfox.com/" xmlUrl="https://bishopfox.com/feeds/blog.rss"/>
+		<outline text="Blog - Perception Point" title="Blog - Perception Point" description="" type="rss" version="RSS" htmlUrl="https://perception-point.io/blog/" xmlUrl="https://perception-point.io/blog/feed/"/>
+		<outline text="Blog â JFrog" title="Blog â JFrog" description="" type="rss" version="RSS" htmlUrl="https://jfrog.com/" xmlUrl="https://jfrog.com/blog/feed/"/>
+		<outline text="Cado Security | Cloud Forensics &amp; Incident Response" title="Cado Security | Cloud Forensics &amp; Incident Response" description="" type="rss" version="RSS" htmlUrl="https://www.cadosecurity.com/home/" xmlUrl="https://www.cadosecurity.com/feed/"/>
+		<outline text="Check Point Research" title="Check Point Research" description="" type="rss" version="RSS" htmlUrl="https://research.checkpoint.com/" xmlUrl="https://research.checkpoint.com/feed/"/>
+		<outline text="Elastic Security Labs - Research" title="Elastic Security Labs - Research" description="" type="rss" version="RSS" htmlUrl="https://www.elastic.co/security-labs/" xmlUrl="https://www.elastic.co/security-labs/feed"/>
+		<outline text="Intel471" title="Intel471" description="" type="rss" version="RSS" htmlUrl="https://intel471.com/" xmlUrl="https://intel471.com/blog/feed/"/>
+		<outline text="Intezer" title="Intezer" description="" type="rss" version="RSS" htmlUrl="https://intezer.com/" xmlUrl="https://www.intezer.com/feed/"/>
+		<outline text="Malwarebytes Labs" title="Malwarebytes Labs" description="" type="rss" version="RSS" htmlUrl="https://www.malwarebytes.com/" xmlUrl="https://www.malwarebytes.com/blog/feed/index.xml"/>
+		<outline text="Microsoft Security Blog" title="Microsoft Security Blog" description="" type="rss" version="RSS" htmlUrl="https://www.microsoft.com/en-us/security/blog/" xmlUrl="https://www.microsoft.com/en-us/security/blog/feed"/>
+		<outline text="MSRC Security Update Guide" title="MSRC Security Update Guide" description="" type="rss" version="RSS" htmlUrl="https://msrc.microsoft.com/update-guide/" xmlUrl="https://api.msrc.microsoft.com/update-guide/rss"/>
+		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://netnewswire.blog/" xmlUrl="https://nnw.ranchero.com/feed.json"/>
+		<outline text="OALABS Research" title="OALABS Research" description="" type="rss" version="RSS" htmlUrl="https://research.openanalysis.net/" xmlUrl="https://research.openanalysis.net/feed.xml"/>
+		<outline text="Phylum Research Blog" title="Phylum Research Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.phylum.io/" xmlUrl="https://blog.phylum.io/rss.xml"/>
+		<outline text="Project Zero" title="Project Zero" description="" type="rss" version="RSS" htmlUrl="https://googleprojectzero.blogspot.com/" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default"/>
+		<outline text="PSIRT Blog" title="PSIRT Blog" description="" type="rss" version="RSS" htmlUrl="https://www.fortinet.com/bin/fortinet/allblogsrss?search=psirt-blogs" xmlUrl="https://feeds.fortinet.com/fortinet/blog/psirt"/>
+		<outline text="Publications | Outflank" title="Publications | Outflank" description="" type="rss" version="RSS" htmlUrl="https://outflank.nl/blog/" xmlUrl="https://outflank.nl/blog/feed/"/>
+		<outline text="Risky Business News" title="Risky Business News" description="" type="rss" version="RSS" htmlUrl="https://riskybiznews.substack.com/" xmlUrl="https://riskybiznews.substack.com/feed"/>
+		<outline text="Sec Team Blog" title="Sec Team Blog" description="" type="rss" version="RSS" htmlUrl="http:///" xmlUrl="https://blog.scrt.ch/feed/"/>
+		<outline text="Securelist" title="Securelist" description="" type="rss" version="RSS" htmlUrl="https://securelist.com/" xmlUrl="https://securelist.com/feed/"/>
+		<outline text="Snyk Blog" title="Snyk Blog" description="" type="rss" version="RSS" htmlUrl="https://snyk.io/" xmlUrl="https://snyk.io/blog/feed/"/>
+		<outline text="Sonatype Blog" title="Sonatype Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.sonatype.com/" xmlUrl="https://blog.sonatype.com/rss.xml"/>
+		<outline text="SonicWall" title="SonicWall" description="" type="rss" version="RSS" htmlUrl="https://securitynews.sonicwall.com/" xmlUrl="https://securitynews.sonicwall.com/feed/"/>
+		<outline text="Sophos News" title="Sophos News" description="" type="rss" version="RSS" htmlUrl="https://news.sophos.com/en-us/" xmlUrl="https://news.sophos.com/en-us/feed"/>
+		<outline text="SpiderLabs Blog from Trustwave" title="SpiderLabs Blog from Trustwave" description="" type="rss" version="RSS" htmlUrl="https://www.trustwave.com/en-us/" xmlUrl="https://www.trustwave.com/en-us/rss/spiderlabs-blog/"/>
+		<outline text="Splunk Blogs" title="Splunk Blogs" description="" type="rss" version="RSS" htmlUrl="https://www.splunk.com/blog" xmlUrl="https://www.splunk.com/blog/feed/"/>
+		<outline text="Sysdig" title="Sysdig" description="" type="rss" version="RSS" htmlUrl="https://sysdig.com/" xmlUrl="https://sysdig.com/feed/"/>
+		<outline text="Team Cymru" title="Team Cymru" description="" type="rss" version="RSS" htmlUrl="https://www.team-cymru.com/blog" xmlUrl="https://www.team-cymru.com/blog-feed.xml"/>
+		<outline text="Threat Analysis Group (TAG)" title="Threat Analysis Group (TAG)" description="" type="rss" version="RSS" htmlUrl="https://blog.google/threat-analysis-group/" xmlUrl="https://blog.google/threat-analysis-group/rss"/>
+		<outline text="Unit 42" title="Unit 42" description="" type="rss" version="RSS" htmlUrl="https://unit42.paloaltonetworks.com/" xmlUrl="https://unit42.paloaltonetworks.com/feed"/>
+		<outline text="Uptycs Blog" title="Uptycs Blog" description="" type="rss" version="RSS" htmlUrl="https://www.uptycs.com/blog" xmlUrl="https://www.uptycs.com/blog/rss.xml"/>
+		<outline text="Zscaler Blog" title="Zscaler Blog" description="" type="rss" version="RSS" htmlUrl="https://www.zscaler.com/" xmlUrl="https://www.zscaler.com/blogs/feeds/security-research"/>
 	</outline>
 	</body>
 </opml>
