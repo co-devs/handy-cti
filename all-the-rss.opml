@@ -61,7 +61,6 @@
 		<outline text="Splunk Security Content" title="Splunk Security Content" description="" type="rss" version="RSS" htmlUrl="https://splunkresearch.com/" xmlUrl="https://research.splunk.com/feed.xml"/>
 	</outline>
 	<outline text="Watched COs" title="Watched COs">
-		<outline text="News - 3CX | Blog" title="News - 3CX | Blog" description="" type="rss" version="RSS" htmlUrl="https://www.3cx.com/blog/category/news/" xmlUrl="https://www.3cx.com/blog/category/news/feed/"/>
 	</outline>
 	<outline text="C2 Frameworks" title="C2 Frameworks">
 		<outline text="airstrike:main" title="airstrike:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/smokeme/airstrike/commits/main" xmlUrl="https://github.com/smokeme/airstrike/commits.atom"/>
