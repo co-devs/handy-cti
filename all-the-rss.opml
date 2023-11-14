@@ -5,7 +5,7 @@
 		<title>Security Updates</title>
 	</head>
 <body>
-	<outline text="Recent Commits to handy-cti:main" title="Recent Commits to handy-cti:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/ForensicITGuy/handy-cti/commits/main" xmlUrl="https://github.com/ForensicITGuy/handy-cti/commits.atom"/>
+	<outline text="handy-cti:main" title="handy-cti:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/ForensicITGuy/handy-cti/commits/main" xmlUrl="https://github.com/ForensicITGuy/handy-cti/commits.atom"/>
 	<outline text="Favored Sources" title="Favored Sources">
 		<outline text="Jonathan Johnson on Medium" title="Jonathan Johnson on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@jsecurity101?source=rss-78d2ff57ed70------2" xmlUrl="https://jsecurity101.medium.com/feed"/>
 		<outline text="Olaf Hartong on Medium" title="Olaf Hartong on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@olafhartong?source=rss-5ca7329adb2b------2" xmlUrl="https://medium.com/@olafhartong/feed"/>
@@ -51,12 +51,12 @@
 		<outline text="TrustedSec" title="TrustedSec" description="" type="rss" version="RSS" htmlUrl="https://www.trustedsec.com/" xmlUrl="https://www.trustedsec.com/feed/"/>
 	</outline>
 	<outline text="Blue Team Rules" title="Blue Team Rules">
-		<outline text="Recent Commits to detection-rules:main" title="Recent Commits to detection-rules:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/elastic/detection-rules/commits/main" xmlUrl="https://github.com/elastic/detection-rules/commits.atom"/>
-		<outline text="Recent Commits to protections-artifacts:main" title="Recent Commits to protections-artifacts:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/elastic/protections-artifacts/commits/main" xmlUrl="https://github.com/elastic/protections-artifacts/commits.atom"/>
-		<outline text="Recent Commits to reversinglabs-yara-rules:develop" title="Recent Commits to reversinglabs-yara-rules:develop" description="" type="rss" version="RSS" htmlUrl="https://github.com/reversinglabs/reversinglabs-yara-rules/commits/develop" xmlUrl="https://github.com/reversinglabs/reversinglabs-yara-rules/commits.atom"/>
-		<outline text="Recent Commits to sigma:master" title="Recent Commits to sigma:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/SigmaHQ/sigma/commits/master" xmlUrl="https://github.com/SigmaHQ/sigma/commits.atom"/>
-		<outline text="Recent Commits to signature-base:master" title="Recent Commits to signature-base:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/Neo23x0/signature-base/commits/master" xmlUrl="https://github.com/Neo23x0/signature-base/commits.atom"/>
-		<outline text="Recent Commits to sublime-rules:main" title="Recent Commits to sublime-rules:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/sublime-security/sublime-rules/commits/main" xmlUrl="https://github.com/sublime-security/sublime-rules/commits.atom"/>
+		<outline text="detection-rules:main" title="detection-rules:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/elastic/detection-rules/commits/main" xmlUrl="https://github.com/elastic/detection-rules/commits.atom"/>
+		<outline text="protections-artifacts:main" title="protections-artifacts:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/elastic/protections-artifacts/commits/main" xmlUrl="https://github.com/elastic/protections-artifacts/commits.atom"/>
+		<outline text="reversinglabs-yara-rules:develop" title="reversinglabs-yara-rules:develop" description="" type="rss" version="RSS" htmlUrl="https://github.com/reversinglabs/reversinglabs-yara-rules/commits/develop" xmlUrl="https://github.com/reversinglabs/reversinglabs-yara-rules/commits.atom"/>
+		<outline text="sigma:master" title="sigma:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/SigmaHQ/sigma/commits/master" xmlUrl="https://github.com/SigmaHQ/sigma/commits.atom"/>
+		<outline text="signature-base:master" title="signature-base:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/Neo23x0/signature-base/commits/master" xmlUrl="https://github.com/Neo23x0/signature-base/commits.atom"/>
+		<outline text="sublime-rules:main" title="sublime-rules:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/sublime-security/sublime-rules/commits/main" xmlUrl="https://github.com/sublime-security/sublime-rules/commits.atom"/>
 		<outline text="Ruleset Updates - Emerging Threats" title="Ruleset Updates - Emerging Threats" description="" type="rss" version="RSS" htmlUrl="https://community.emergingthreats.net/c/ruleset-updates/9" xmlUrl="https://community.emergingthreats.net/c/ruleset-updates/9.rss"/>
 		<outline text="Splunk Security Content" title="Splunk Security Content" description="" type="rss" version="RSS" htmlUrl="https://splunkresearch.com/" xmlUrl="https://research.splunk.com/feed.xml"/>
 	</outline>
@@ -101,7 +101,7 @@
 		<outline text="poseidon:master" title="poseidon:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/MythicAgents/poseidon/commits/master" xmlUrl="https://github.com/MythicAgents/poseidon/commits.atom"/>
 		<outline text="PoshC2" title="PoshC2" description="" type="rss" version="RSS" htmlUrl="https://github.com/nettitude/PoshC2/releases" xmlUrl="https://github.com/nettitude/PoshC2/releases.atom"/>
 		<outline text="PowerHub" title="PowerHub" description="" type="rss" version="RSS" htmlUrl="https://github.com/AdrianVollmer/PowerHub/releases" xmlUrl="https://github.com/AdrianVollmer/PowerHub/releases.atom"/>
-		<outline text="Recent Commits to geacon_plus:main" title="Recent Commits to geacon_plus:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/Z3ratu1/geacon_plus/commits/main" xmlUrl="https://github.com/Z3ratu1/geacon_plus/commits.atom"/>
+		<outline text="geacon_plus:main" title="geacon_plus:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/Z3ratu1/geacon_plus/commits/main" xmlUrl="https://github.com/Z3ratu1/geacon_plus/commits.atom"/>
 		<outline text="RedGhost:master" title="RedGhost:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/d4rk007/RedGhost/commits/master" xmlUrl="https://github.com/d4rk007/RedGhost/commits/master.atom"/>
 		<outline text="rex-powershell" title="rex-powershell" description="" type="rss" version="RSS" htmlUrl="https://github.com/rapid7/rex-powershell/releases" xmlUrl="https://github.com/rapid7/rex-powershell/releases.atom"/>
 		<outline text="sandcat" title="sandcat" description="" type="rss" version="RSS" htmlUrl="https://github.com/mitre/sandcat/releases" xmlUrl="https://github.com/mitre/sandcat/releases.atom"/>
@@ -116,11 +116,11 @@
 		<outline text="WMImplant Recent Commits" title="WMImplant Recent Commits" description="" type="rss" version="RSS" htmlUrl="https://github.com/FortyNorthSecurity/WMImplant/commits/master" xmlUrl="https://github.com/FortyNorthSecurity/WMImplant/commits/master.atom"/>
 	</outline>
 	<outline text="IOCs" title="IOCs">
-		<outline text="Recent Commits to Bumblebee:main" title="Recent Commits to Bumblebee:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Bumblebee/commits/main" xmlUrl="https://github.com/pr0xylife/Bumblebee/commits.atom"/>
-		<outline text="Recent Commits to Emotet:main" title="Recent Commits to Emotet:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Emotet/commits/main" xmlUrl="https://github.com/pr0xylife/Emotet/commits.atom"/>
-		<outline text="Recent Commits to IcedID:main" title="Recent Commits to IcedID:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/IcedID/commits/main" xmlUrl="https://github.com/pr0xylife/IcedID/commits.atom"/>
-		<outline text="Recent Commits to MalwareConfigLists:main" title="Recent Commits to MalwareConfigLists:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/Gi7w0rm/MalwareConfigLists/commits/main" xmlUrl="https://github.com/Gi7w0rm/MalwareConfigLists/commits.atom"/>
-		<outline text="Recent Commits to Qakbot:main" title="Recent Commits to Qakbot:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Qakbot/commits/main" xmlUrl="https://github.com/pr0xylife/Qakbot/commits.atom"/>
+		<outline text="Bumblebee IOCs" title="Bumblebee IOCs" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Bumblebee/commits/main" xmlUrl="https://github.com/pr0xylife/Bumblebee/commits.atom"/>
+		<outline text="Emotet IOCs" title="Emotet IOCs" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Emotet/commits/main" xmlUrl="https://github.com/pr0xylife/Emotet/commits.atom"/>
+		<outline text="IcedID IOCs" title="IcedID IOCs" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/IcedID/commits/main" xmlUrl="https://github.com/pr0xylife/IcedID/commits.atom"/>
+		<outline text="MalwareConfigLists" title="MalwareConfigLists" description="" type="rss" version="RSS" htmlUrl="https://github.com/Gi7w0rm/MalwareConfigLists/commits/main" xmlUrl="https://github.com/Gi7w0rm/MalwareConfigLists/commits.atom"/>
+		<outline text="Qakbot IOCs" title="Qakbot IOCs" description="" type="rss" version="RSS" htmlUrl="https://github.com/pr0xylife/Qakbot/commits/main" xmlUrl="https://github.com/pr0xylife/Qakbot/commits.atom"/>
 	</outline>
 	<outline text="OffSec Tools" title="OffSec Tools">
 		<outline text="ADFSDump:master" title="ADFSDump:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/mandiant/ADFSDump/commits/master" xmlUrl="https://github.com/fireeye/ADFSDump/commits/master.atom"/>
@@ -173,11 +173,11 @@
 		<outline text="atomic-red-team:master" title="atomic-red-team:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/redcanaryco/atomic-red-team/commits/master" xmlUrl="https://github.com/redcanaryco/atomic-red-team/commits.atom"/>
 		<outline text="CyberChef" title="CyberChef" description="" type="rss" version="RSS" htmlUrl="https://github.com/gchq/CyberChef/releases" xmlUrl="https://github.com/gchq/CyberChef/releases.atom"/>
 		<outline text="Explore Atomic Red Team" title="Explore Atomic Red Team" description="" type="rss" version="RSS" htmlUrl="https://atomicredteam.io/" xmlUrl="https://atomicredteam.io/feed.xml"/>
-		<outline text="Recent Commits to GTFOBins.github.io:master" title="Recent Commits to GTFOBins.github.io:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits/master" xmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits.atom"/>
-		<outline text="Recent Commits to HijackLibs:main" title="Recent Commits to HijackLibs:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/wietze/HijackLibs/commits/main" xmlUrl="https://github.com/wietze/HijackLibs/commits.atom"/>
-		<outline text="Recent Commits to LOLBAS:master" title="Recent Commits to LOLBAS:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits/master" xmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits.atom"/>
-		<outline text="Recent Commits to LOLDrivers:main" title="Recent Commits to LOLDrivers:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/magicsword-io/LOLDrivers/commits/main" xmlUrl="https://github.com/magicsword-io/LOLDrivers/commits/main.atom"/>
-		<outline text="Recent Commits to wtfbins:main" title="Recent Commits to wtfbins:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/mttaggart/wtfbins/commits/main" xmlUrl="https://github.com/mttaggart/wtfbins/commits.atom"/>
+		<outline text="GTFOBins.github.io:master" title="GTFOBins.github.io:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits/master" xmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits.atom"/>
+		<outline text="HijackLibs:main" title="HijackLibs:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/wietze/HijackLibs/commits/main" xmlUrl="https://github.com/wietze/HijackLibs/commits.atom"/>
+		<outline text="LOLBAS:master" title="LOLBAS:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits/master" xmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits.atom"/>
+		<outline text="LOLDrivers:main" title="LOLDrivers:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/magicsword-io/LOLDrivers/commits/main" xmlUrl="https://github.com/magicsword-io/LOLDrivers/commits/main.atom"/>
+		<outline text="wtfbins:main" title="wtfbins:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/mttaggart/wtfbins/commits/main" xmlUrl="https://github.com/mttaggart/wtfbins/commits.atom"/>
 		<outline text="Release notes from mac-monitor" title="Release notes from mac-monitor" description="" type="rss" version="RSS" htmlUrl="https://github.com/redcanaryco/mac-monitor/releases" xmlUrl="https://github.com/redcanaryco/mac-monitor/releases.atom"/>
 	</outline>
 	<outline text="RATs" title="RATs">
@@ -187,7 +187,7 @@
 		<outline text="CHAOS:master" title="CHAOS:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master" xmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master.atom"/>
 		<outline text="paradoxiaRAT" title="paradoxiaRAT" description="" type="rss" version="RSS" htmlUrl="https://github.com/quantumcore/paradoxiaRAT/releases" xmlUrl="https://github.com/quantumcored/paradoxiaRAT/releases.atom"/>
 		<outline text="pupy:unstable" title="pupy:unstable" description="" type="rss" version="RSS" htmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable" xmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable.atom"/>
-		<outline text="Recent Commits to TurkoRat:main" title="Recent Commits to TurkoRat:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/cryst4linqq/TurkoRat/commits/main" xmlUrl="https://github.com/cryst4linqq/TurkoRat/commits.atom"/>
+		<outline text="TurkoRat:main" title="TurkoRat:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/cryst4linqq/TurkoRat/commits/main" xmlUrl="https://github.com/cryst4linqq/TurkoRat/commits.atom"/>
 		<outline text="Spark" title="Spark" description="" type="rss" version="RSS" htmlUrl="https://github.com/XZB-1248/Spark/releases" xmlUrl="https://github.com/XZB-1248/Spark/releases.atom"/>
 	</outline>
 	<outline text="Uncategorized Blogs" title="Uncategorized Blogs">
