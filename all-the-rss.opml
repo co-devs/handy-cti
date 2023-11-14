@@ -5,7 +5,7 @@
 		<title>Security Updates</title>
 	</head>
 <body>
-    	<outline text="Recent Commits to handy-cti:main" title="Recent Commits to handy-cti:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/ForensicITGuy/handy-cti/commits/main" xmlUrl="https://github.com/ForensicITGuy/handy-cti/commits.atom"/>
+	<outline text="Recent Commits to handy-cti:main" title="Recent Commits to handy-cti:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/ForensicITGuy/handy-cti/commits/main" xmlUrl="https://github.com/ForensicITGuy/handy-cti/commits.atom"/>
 	<outline text="Favored Sources" title="Favored Sources">
 		<outline text="Jonathan Johnson on Medium" title="Jonathan Johnson on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@jsecurity101?source=rss-78d2ff57ed70------2" xmlUrl="https://jsecurity101.medium.com/feed"/>
 		<outline text="Olaf Hartong on Medium" title="Olaf Hartong on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@olafhartong?source=rss-5ca7329adb2b------2" xmlUrl="https://medium.com/@olafhartong/feed"/>
@@ -18,7 +18,6 @@
 		<outline text="Blog - Active Countermeasures" title="Blog - Active Countermeasures" description="" type="rss" version="RSS" htmlUrl="https://www.activecountermeasures.com/blog/" xmlUrl="https://www.activecountermeasures.com/blog/feed/"/>
 		<outline text="Cisco Talos Blog" title="Cisco Talos Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.talosintelligence.com/" xmlUrl="https://blog.talosintelligence.com/rss/"/>
 		<outline text="Cybersecurity Blog | CrowdStrike" title="Cybersecurity Blog | CrowdStrike" description="" type="rss" version="RSS" htmlUrl="https://www.crowdstrike.com/blog/" xmlUrl="https://www.crowdstrike.com/blog/feed"/>
-		<outline text="Cybersecurity Blog | SentinelOne" title="Cybersecurity Blog | SentinelOne" description="" type="rss" version="RSS" htmlUrl="https://www.sentinelone.com/blog/" xmlUrl="https://www.sentinelone.com/blog/feed/"/>
 		<outline text="enigma0x3" title="enigma0x3" description="" type="rss" version="RSS" htmlUrl="https://enigma0x3.net/" xmlUrl="https://enigma0x3.net/feed/"/>
 		<outline text="Expel" title="Expel" description="" type="rss" version="RSS" htmlUrl="https://expel.com/" xmlUrl="https://expel.com/feed/"/>
 		<outline text="FalconForce" title="FalconForce" description="" type="rss" version="RSS" htmlUrl="https://falconforce.nl/" xmlUrl="https://falconforce.nl/feed/"/>
@@ -33,10 +32,12 @@
 		<outline text="NVISO Labs" title="NVISO Labs" description="" type="rss" version="RSS" htmlUrl="https://blog.nviso.eu/" xmlUrl="https://blog.nviso.eu/feed/"/>
 		<outline text="Objective-See's Blog" title="Objective-See's Blog" description="" type="rss" version="RSS" htmlUrl="https://www.objective-see.com/" xmlUrl="https://objective-see.org/rss.xml"/>
 		<outline text="Palo Alto Networks Blog" title="Palo Alto Networks Blog" description="" type="rss" version="RSS" htmlUrl="https://www.paloaltonetworks.com/blog/" xmlUrl="http://feeds.feedburner.com/PaloAltoNetworks"/>
+		<outline text="Risky Business News" title="Risky Business News" description="" type="rss" version="RSS" htmlUrl="https://riskybiznews.substack.com/" xmlUrl="https://riskybiznews.substack.com/feed"/>
 		<outline text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" description="" type="rss" version="RSS" htmlUrl="https://isc.sans.edu/" xmlUrl="https://isc.sans.edu/rssfeed_full.xml"/>
+		<outline text="Shell is Only the Beginning" title="Shell is Only the Beginning" description="" type="rss" version="RSS" htmlUrl="https://www.darkoperator.com/" xmlUrl="https://www.darkoperator.com/?format=rss"/>
 		<outline text="Stories by Michael Koczwara on Medium" title="Stories by Michael Koczwara on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@michaelkoczwara?source=rss-cacb9c1b6e0c------2" xmlUrl="https://medium.com/feed/@michaelkoczwara"/>
-		<outline text="Stories by Michael Koczwara on Medium" title="Stories by Michael Koczwara on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@michaelkoczwara?source=rss-cacb9c1b6e0c------2" xmlUrl="https://michaelkoczwara.medium.com/feed"/>
 		<outline text="The Red Canary Blog: Information Security Insights" title="The Red Canary Blog: Information Security Insights" description="" type="rss" version="RSS" htmlUrl="https://redcanary.com/blog/" xmlUrl="https://redcanary.com/blog/feed/"/>
+		<outline text="This Week in 4n6" title="This Week In 4n6" description="" type="rss" version="RSS" htmlUrl="https://thisweekin4n6.com/" xmlUrl="https://thisweekin4n6.com/feed/"/>
 		<outline text="Tony Lambert" title="Tony Lambert" description="" type="rss" version="RSS" htmlUrl="https://forensicitguy.github.io/" xmlUrl="https://forensicitguy.github.io/feed.xml"/>
 		<outline text="XOR-Hacks on Medium" title="XOR-Hacks on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@Proclus?source=rss-7212fa5e444------2" xmlUrl="https://medium.com/@Proclus/feed"/>
 	</outline>
@@ -44,6 +45,8 @@
 		<outline text="Black Hills Information Security" title="Black Hills Information Security" description="" type="rss" version="RSS" htmlUrl="https://www.blackhillsinfosec.com/" xmlUrl="https://www.blackhillsinfosec.com/feed/"/>
 		<outline text="Blog – Red Siege Information Security" title="Blog – Red Siege Information Security" description="" type="rss" version="RSS" htmlUrl="https://redsiege.com/" xmlUrl="https://redsiege.com/blog/feed/"/>
 		<outline text="Blog – White Oak Security" title="Blog – White Oak Security" description="" type="rss" version="RSS" htmlUrl="https://www.whiteoaksecurity.com/" xmlUrl="https://www.whiteoaksecurity.com/blog/feed/"/>
+		<outline text="csandker.io" title="csandker.io" description="" type="rss" version="RSS" htmlUrl="https://csandker.io//" xmlUrl="https://csandker.io/feed.xml"/>
+		<outline text="eXploit" title="eXploit" description="" type="rss" version="RSS" htmlUrl="https://exploit.ph/" xmlUrl="https://exploit.ph/feeds/rss.xml"/>
 		<outline text="Lares" title="Lares" description="" type="rss" version="RSS" htmlUrl="https://www.lares.com/blog/expanding-the-lares-partner-program/" xmlUrl="https://www.lares.com/feed/"/>
 		<outline text="TrustedSec" title="TrustedSec" description="" type="rss" version="RSS" htmlUrl="https://www.trustedsec.com/" xmlUrl="https://www.trustedsec.com/feed/"/>
 	</outline>
@@ -133,6 +136,7 @@
 		<outline text="EXCELntDonut:master" title="EXCELntDonut:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/FortyNorthSecurity/EXCELntDonut/commits/master" xmlUrl="https://github.com/FortyNorthSecurity/EXCELntDonut/commits/master.atom"/>
 		<outline text="fireELF:master" title="fireELF:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/rek7/fireELF/commits/master" xmlUrl="https://github.com/rek7/fireELF/commits/master.atom"/>
 		<outline text="GTFOBins.github.io:master" title="GTFOBins.github.io:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits/master" xmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits/master.atom"/>
+		<outline text="impacket release notes" title="impacket release notes" description="" type="rss" version="RSS" htmlUrl="https://github.com/fortra/impacket/releases" xmlUrl="https://github.com/fortra/impacket/releases.atom"/>
 		<outline text="Inveigh:master" title="Inveigh:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/Kevin-Robertson/Inveigh/commits/master" xmlUrl="https://github.com/Kevin-Robertson/Inveigh/commits/master.atom"/>
 		<outline text="KeeThief:master" title="KeeThief:master" description="" type="rss" version="RSS" htmlUrl="https://github.com/GhostPack/KeeThief/commits/master" xmlUrl="https://github.com/GhostPack/KeeThief/commits/master.atom"/>
 		<outline text="kekeo" title="kekeo" description="" type="rss" version="RSS" htmlUrl="https://github.com/gentilkiwi/kekeo/releases" xmlUrl="https://github.com/gentilkiwi/kekeo/releases.atom"/>
