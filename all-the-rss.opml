@@ -6,7 +6,7 @@
 	</head>
 <body>
 	<outline text="handy-cti:main" title="handy-cti:main" description="" type="rss" version="RSS" htmlUrl="https://github.com/ForensicITGuy/handy-cti/commits/main" xmlUrl="https://github.com/ForensicITGuy/handy-cti/commits.atom"/>
-	<outline text="Favored Sources" title="Favored Sources">
+	<outline text=" Favored Sources" title="Favored Sources">
 		<outline text="Jonathan Johnson on Medium" title="Jonathan Johnson on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@jsecurity101?source=rss-78d2ff57ed70------2" xmlUrl="https://jsecurity101.medium.com/feed"/>
 		<outline text="Olaf Hartong on Medium" title="Olaf Hartong on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@olafhartong?source=rss-5ca7329adb2b------2" xmlUrl="https://medium.com/@olafhartong/feed"/>
 		<outline text="The DFIR Report" title="The DFIR Report" description="" type="rss" version="RSS" htmlUrl="https://thedfirreport.com/" xmlUrl="https://thedfirreport.com/feed/"/>
