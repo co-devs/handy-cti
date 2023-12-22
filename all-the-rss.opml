@@ -40,6 +40,8 @@
 		<outline text="This Week in 4n6" title="This Week In 4n6" description="" type="rss" version="RSS" htmlUrl="https://thisweekin4n6.com/" xmlUrl="https://thisweekin4n6.com/feed/"/>
 		<outline text="Tony Lambert" title="Tony Lambert" description="" type="rss" version="RSS" htmlUrl="https://forensicitguy.github.io/" xmlUrl="https://forensicitguy.github.io/feed.xml"/>
 		<outline text="XOR-Hacks on Medium" title="XOR-Hacks on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@Proclus?source=rss-7212fa5e444------2" xmlUrl="https://medium.com/@Proclus/feed"/>
+		<outline text="SentinelLabs - We are hunters, reversers, exploit developers, and tinkerers shedding light on the world of malware, exploits, APTs, and cybercrime across all platforms." title="SentinelLabs - We are hunters, reversers, exploit developers, and tinkerers shedding light on the world of malware, exploits, APTs, and cybercrime across all platforms." description="" type="rss" version="RSS" htmlUrl="https://www.sentinelone.com/labs/" xmlUrl="https://www.sentinelone.com/labs/feed/"/>
+		<outline text="Malpedia Library" title="Malpedia Library" description="" type="rss" version="RSS" htmlUrl="https://malpedia.caad.fkie.fraunhofer.de/" xmlUrl="https://malpedia.caad.fkie.fraunhofer.de/feeds/rss/latest"/>
 	</outline>
 	<outline text="Blogs - Red" title="Blogs - Red">
 		<outline text="Black Hills Information Security" title="Black Hills Information Security" description="" type="rss" version="RSS" htmlUrl="https://www.blackhillsinfosec.com/" xmlUrl="https://www.blackhillsinfosec.com/feed/"/>
@@ -227,6 +229,10 @@
 		<outline text="Unit 42" title="Unit 42" description="" type="rss" version="RSS" htmlUrl="https://unit42.paloaltonetworks.com/" xmlUrl="https://unit42.paloaltonetworks.com/feed"/>
 		<outline text="Uptycs Blog" title="Uptycs Blog" description="" type="rss" version="RSS" htmlUrl="https://www.uptycs.com/blog" xmlUrl="https://www.uptycs.com/blog/rss.xml"/>
 		<outline text="Zscaler Blog" title="Zscaler Blog" description="" type="rss" version="RSS" htmlUrl="https://www.zscaler.com/" xmlUrl="https://www.zscaler.com/blogs/feeds/security-research"/>
+		<outline text="Aqua Blog" title="Aqua Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.aquasec.com/" xmlUrl="https://blog.aquasec.com/rss.xml"/>
+		<outline text="Bitdefender Labs" title="Bitdefender Labs" description="" type="rss" version="RSS" htmlUrl="https://www.bitdefender.com/blog/labs/" xmlUrl="https://www.bitdefender.com/blog/api/rss/labs/"/>
+		<outline text="ReversingLabs Blog" title="ReversingLabs Blog" description="" type="rss" version="RSS" htmlUrl="https://www.reversinglabs.com/blog" xmlUrl="https://www.reversinglabs.com/blog/rss.xml"/>
+		<outline text="WeLiveSecurity" title="WeLiveSecurity" description="" type="rss" version="RSS" htmlUrl="https://www.welivesecurity.com/" xmlUrl="https://www.welivesecurity.com/en/rss/feed/"/>
 	</outline>
 	</body>
 </opml>
